@@ -1,12 +1,12 @@
-## Hi there 🌷 🪻 💐 🌸 🌱
+# Hi there 🌷 🪻 💐 🌸 🌱
 
+<p align="center"width="100%">
 ## Projet en cours
 
 <img src="https://github.com/Naphiye/Naphiye/blob/main/minishellm.png" align="center"></img></a><a href="url">  
 
 ## Projets valides
 
-<p align="center"width="100%">
 
 <a href="url">
 <img src="https://github.com/Naphiye/Naphiye/blob/main/libftm.png" align="center"></img></a><a href="url">
