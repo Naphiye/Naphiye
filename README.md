@@ -9,7 +9,7 @@
 ## Projets valides
 
 <p align="center"width="100%">
-<a href="git@github.com:Naphiye/libft">
+<a href="https://github.com/Naphiye/libft">
 <img src="https://github.com/Naphiye/libft/blob/master/libftm.png" align="center"></img></a>
 <a href="https://github.com/Naphiye/printf">
 <img src="https://github.com/Naphiye/printf/blob/main/ft_printfe.png" align="center"></img></a>
