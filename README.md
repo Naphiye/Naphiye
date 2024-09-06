@@ -24,7 +24,7 @@
   <a href="https://github.com/Naphiye/philosophers/tree/main">
 <img src="https://github.com/Naphiye/philosophers/blob/main/philosopherse.png" align="center"></img></a> 
   <a href="https://github.com/Naphiye/Minishell/tree/main">
-<img src=" https://github.com/Naphiye/Minishell/blob/main/minishelle.png" align="center"></img></a>
+<img src="https://github.com/Naphiye/Minishell/blob/main/minishelle.png" align="center"></img></a>
 
   <a href="url"> 
   
