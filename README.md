@@ -3,7 +3,7 @@
 ## Projet en cours
 
 <p align="center"width="100%">
-<img src="https://github.com/Naphiye/Naphiye/blob/main/minishellm.png" align="center"></img></a><a href="url">  
+<img src="https://github.com/Naphiye/Naphiye/blob/main/netpracticee.png" align="center"></img></a><a href="url">  
 </p>
 
 ## Projets valides
@@ -23,5 +23,8 @@
 <img src="https://github.com/Naphiye/minitalk/blob/main/minitalkm.png" align="center"></img></a>
   <a href="https://github.com/Naphiye/philosophers/tree/main">
 <img src="https://github.com/Naphiye/philosophers/blob/main/philosopherse.png" align="center"></img></a>
+<a href="url">  
+    <a href="https://github.com/Naphiye/Minishell/tree/main">
+<img src=" https://github.com/Naphiye/Minishell/blob/main/minishelle.png" align="center"></img></a>
 <a href="url">  
 </p>
