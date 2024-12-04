@@ -3,7 +3,7 @@
 ## Projet en cours
 
 <p align="center"width="100%">
-<img src="https://github.com/Naphiye/Naphiye/blob/main/netpracticee.png" align="center"></img></a><a href="url">  
+<img src="https://github.com/Naphiye/Naphiye/blob/main/cube3de.png" align="center"></img></a><a href="url">  
 </p>
 
 ## Projets valides
