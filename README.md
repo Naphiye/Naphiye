@@ -1,13 +1,3 @@
-# 42 student🌷 🩰 🌸 
-
-## Projet en cours
-
-<p align="center"width="100%">
-  <a href="https://github.com/Naphiye/transcendance">
-<img src="https://github.com/Naphiye/Naphiye/blob/main/ft_transcendencee.png" align="center"></img></a><a href="url">  
-</p>
-
-## Projets valides
 
 <p align="center"width="100%">
 <a href="https://github.com/Naphiye/libft">
@@ -41,4 +31,8 @@
   <a href="url">  
   <a href="https://github.com/Naphiye/Webserv">
 <img src="https://github.com/Naphiye/Naphiye/blob/main/webserve.png" align="center"></img></a>
+  </p>
+<p align="center"width="100%">
+  <a href="https://github.com/Naphiye/transcendance">
+<img src="https://github.com/Naphiye/Naphiye/blob/main/ft_transcendencee.png" align="center"></img></a><a href="url">  
 </p>
