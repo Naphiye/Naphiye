@@ -33,6 +33,6 @@
 <img src="https://github.com/Naphiye/Naphiye/blob/main/webserve.png" align="center"></img></a>
   </p>
 <p align="center"width="100%">
-  <a href="https://github.com/Naphiye/transcendance">
+  <a href="https://github.com/Naphiye/first_Transcendance">
 <img src="https://github.com/Naphiye/Naphiye/blob/main/ft_transcendencee.png" align="center"></img></a><a href="url">  
 </p>
