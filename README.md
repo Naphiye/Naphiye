@@ -25,8 +25,11 @@ Formée à l’École 42, je conçois des applications **robustes et performante
 - **Infra** : Docker, NGINX, TLS  
 - **DB** : SQLite, MariaDB
 
+--- ## 🚀 Projets clés
 
----
+> 🧱 C / C++ : libft, printf, Cub3D, philosophers, minishell  
+> 🌐 Backend & Web : Webserv, Inception, Transcendence
+
 <p align="center">
   <a href="https://github.com/Naphiye/libft">
     <img src="https://github.com/Naphiye/libft/blob/main/libftm.png" width="105"/>
