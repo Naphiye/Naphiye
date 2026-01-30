@@ -1,5 +1,5 @@
 
-# 💐 Fanny Salomon 
+# Fanny Salomon 
 
 Développeuse logiciel **C / C++** et développeuse **full-stack web**.  
 Formée à l’École 42, je conçois des applications **robustes et performantes**, du bas niveau (algorithmes, mémoire, concurrence) jusqu’aux applications web modernes (APIs, SPA, Docker).
