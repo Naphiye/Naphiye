@@ -4,9 +4,6 @@
 Développeuse logiciel **C / C++** et développeuse **full-stack web**.  
 Formée à l’École 42, je conçois des applications **robustes et performantes**, du bas niveau (algorithmes, mémoire, concurrence) jusqu’aux applications web modernes (APIs, SPA, Docker).
 
-
----
-
 ## Ce que je fais
 
 - Développement logiciel en **C / C++** (algorithmes, mémoire, concurrence)
@@ -14,8 +11,6 @@ Formée à l’École 42, je conçois des applications **robustes et performante
 - Conception d’**APIs REST** et de **WebSockets**
 - Développement **full-stack web** en TypeScript
 
-
----
 
 ## Stack principale
 
@@ -25,7 +20,7 @@ Formée à l’École 42, je conçois des applications **robustes et performante
 - **Infra** : Docker, NGINX, TLS  
 - **DB** : SQLite, MariaDB
 
---- 
+
 ##  Projets clés
 
 > 🧱 C / C++ : libft, printf, Cub3D, philosophers, minishell  
