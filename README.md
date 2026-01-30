@@ -1,5 +1,5 @@
 
-# 👋 Fanny Salomon
+# Fanny Salomon
 
 Développeuse logiciel **C / C++** et développeuse **full-stack web**.  
 Formée à l’École 42, je conçois des applications **robustes et performantes**, du bas niveau (algorithmes, mémoire, concurrence) jusqu’aux applications web modernes (APIs, SPA, Docker).
@@ -7,7 +7,7 @@ Formée à l’École 42, je conçois des applications **robustes et performante
 
 ---
 
-## 🧠 Ce que je fais
+## Ce que je fais
 
 - Développement logiciel en **C / C++** (algorithmes, mémoire, concurrence)
 - Programmation système : sockets, parsing, protocoles
@@ -17,7 +17,7 @@ Formée à l’École 42, je conçois des applications **robustes et performante
 
 ---
 
-## 🛠 Stack principale
+## Stack principale
 
 - **Langages** : C, C++, TypeScript, SQL, HTML  
 - **Logiciel / Backend** : algorithmes, HTTP, APIs REST, WebSockets, Node.js (Fastify)  
@@ -25,7 +25,8 @@ Formée à l’École 42, je conçois des applications **robustes et performante
 - **Infra** : Docker, NGINX, TLS  
 - **DB** : SQLite, MariaDB
 
---- ## 🚀 Projets clés
+--- 
+##  Projets clés
 
 > 🧱 C / C++ : libft, printf, Cub3D, philosophers, minishell  
 > 🌐 Backend & Web : Webserv, Inception, Transcendence
