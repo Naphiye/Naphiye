@@ -51,7 +51,6 @@ Formée à l’École 42, je conçois des applications **robustes et performante
   <a href="https://github.com/Naphiye/inception">
     <img src="https://github.com/Naphiye/Naphiye/blob/main/inceptione.png" width="120"/>
   </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/Naphiye/first_Transcendance">
