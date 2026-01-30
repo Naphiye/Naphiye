@@ -31,28 +31,28 @@ Formée à l’École 42, je conçois des applications **robustes et performante
     <img src="https://github.com/Naphiye/Naphiye/blob/main/cub3dm.png" width="140"/>
   </a>
   <a href="https://github.com/Naphiye/Webserv">
-    <img src="https://github.com/Naphiye/Naphiye/blob/main/webserve.png" width="120"/>
+    <img src="https://github.com/Naphiye/Naphiye/blob/main/webserve.png" width="140"/>
   </a>
   <a href="https://github.com/Naphiye/inception">
-    <img src="https://github.com/Naphiye/Naphiye/blob/main/inceptione.png" width="120"/>
+    <img src="https://github.com/Naphiye/Naphiye/blob/main/inceptione.png" width="140"/>
   </a>
   <a href="https://github.com/Naphiye/first_Transcendance">
-    <img src="https://github.com/Naphiye/Naphiye/blob/main/ft_transcendencee.png" width="120"/>
+    <img src="https://github.com/Naphiye/Naphiye/blob/main/ft_transcendencee.png" width="140"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Naphiye/libft">
-    <img src="https://github.com/Naphiye/libft/blob/main/libftm.png" width="105"/>
+    <img src="https://github.com/Naphiye/libft/blob/main/libftm.png" width="120"/>
   </a>
   <a href="https://github.com/Naphiye/printf">
-    <img src="https://github.com/Naphiye/printf/blob/main/ft_printfe.png" width="105"/>
+    <img src="https://github.com/Naphiye/printf/blob/main/ft_printfe.png" width="120"/>
   </a>
   <a href="https://github.com/Naphiye/Minishell">
-    <img src="https://github.com/Naphiye/Minishell/blob/main/minishelle.png" width="105"/>
+    <img src="https://github.com/Naphiye/Minishell/blob/main/minishelle.png" width="120"/>
   </a>
   <a href="https://github.com/Naphiye/philosophers">
-    <img src="https://github.com/Naphiye/philosophers/blob/main/philosopherse.png" width="105"/>
+    <img src="https://github.com/Naphiye/philosophers/blob/main/philosopherse.png" width="120"/>
   </a>
 </p>
 
