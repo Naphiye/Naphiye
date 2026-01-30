@@ -1,8 +1,8 @@
 
-# 👋 Fanny Salomon
+#Fanny Salomon
 
 Développeuse logiciel orientée **backend et systèmes**, formée à l’École 42.  
-Je construis des applications **robustes**, du bas niveau jusqu’au web : serveurs HTTP, parsing, APIs et infrastructures Docker.
+Je construis des applications du bas niveau jusqu’au web : serveurs HTTP, parsing, APIs et infrastructures Docker.
 
 ---
 
