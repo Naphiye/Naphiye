@@ -28,7 +28,7 @@ Formée à l’École 42, je conçois des applications **robustes et performante
 
 <p align="center">
   <a href="https://github.com/Naphiye/Cub3D">
-    <img src="https://github.com/Naphiye/Naphiye/blob/main/cub3dm.png" width="120"/>
+    <img src="https://github.com/Naphiye/Naphiye/blob/main/cub3dm.png" width="140"/>
   </a>
   <a href="https://github.com/Naphiye/Webserv">
     <img src="https://github.com/Naphiye/Naphiye/blob/main/webserve.png" width="120"/>
